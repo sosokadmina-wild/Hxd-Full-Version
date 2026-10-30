@@ -241,4 +241,4 @@ This repository serves as the official landing page for HxD Hex Editor. The soft
 **Get the most recent version of HxD Hex Editor today!**
 
 ---
-**Last updated:** 2026-10-30 05:03:07 UTC
+**Last updated:** 2026-10-30 12:27:07 UTC
